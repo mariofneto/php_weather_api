@@ -84,6 +84,7 @@ function city_selected($city, $selected_city)
                     </div>
                     <div class="col-3 text-end">
                         <select class="form-select">
+                            <option value="Sao_Paulo" <?= city_selected('Sao_Paulo', $city) ?>>São Paulo</option>
                             <option value="Lisbon" <?= city_selected('Lisbon', $city) ?>>Lisboa</option>
                             <option value="Madrid" <?= city_selected('Madrid', $city) ?>>Madrid</option>
                             <option value="Paris" <?= city_selected('Paris', $city) ?>>Paris</option>
