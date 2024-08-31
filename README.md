@@ -13,3 +13,4 @@ Este é um projeto de site de previsão do tempo que consome dados de uma API gr
 
 - Exibe previsão do tempo atual e para os próximos dias.
 - Busca de previsões meteorológicas por localização.
+- link api: https://www.weatherapi.com/docs/
